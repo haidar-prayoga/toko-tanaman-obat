@@ -1,0 +1,86 @@
+html,
+body {
+  height: 100%;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+main {
+  flex: 1;
+}
+
+/* === Gambar Produk === */
+.card-img-top {
+  width: 100%;
+  height: 220px; /* Ukuran seragam */
+  object-fit: cover; /* Potong proporsional */
+  border-top-left-radius: 12px;
+  border-top-right-radius: 12px;
+}
+
+/* Supaya tampilan antar kartu seimbang */
+.card {
+  display: flex;
+  flex-direction: column;
+}
+
+.card-body {
+  flex-grow: 1;
+}
+/* === Perapian Grid Produk === */
+#product-list .card {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 100%;
+}
+
+#product-list .card-img-top {
+  width: 100%;
+  height: 220px; /* pastikan semua gambar sama tinggi */
+  object-fit: cover;
+  border-top-left-radius: 12px;
+  border-top-right-radius: 12px;
+}
+
+#product-list .card-body {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  flex-grow: 1;
+  padding-bottom: 1rem;
+}
+
+#product-list .card-body h5 {
+  min-height: 45px; /* biar judul sejajar */
+}
+
+#product-list .card-body .card-text {
+  min-height: 60px; /* biar deskripsi sejajar */
+}
+
+#product-list .btn {
+  margin-top: auto;
+}
+
+.pagination .page-item.active .page-link {
+  background-color: #198754;
+  border-color: #198754;
+  color: white;
+}
+
+.pagination .page-link {
+  color: #198754;
+}
+
+.pagination .page-link:hover {
+  background-color: #d1e7dd;
+}
+
+footer {
+  margin-top: auto;
+}

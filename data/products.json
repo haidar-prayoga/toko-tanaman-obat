@@ -1,0 +1,107 @@
+[
+  {
+    "id": 1,
+    "nama": "Bawang Putih",
+    "harga": 15000,
+    "gambar": "images/bawang-putih.jpg",
+    "deskripsi": "Bawang putih memiliki sifat antibakteri dan dapat membantu menurunkan tekanan darah serta kolesterol."
+  },
+  {
+    "id": 2,
+    "nama": "Jahe",
+    "harga": 12000,
+    "gambar": "images/jahe.jpg",
+    "deskripsi": "Jahe berfungsi sebagai antioksidan alami, membantu meredakan mual, dan menghangatkan tubuh."
+  },
+  {
+    "id": 3,
+    "nama": "Daun Ginseng",
+    "harga": 25000,
+    "gambar": "images/daun-gingseng.jpg",
+    "deskripsi": "Daun ginseng membantu meningkatkan stamina, daya ingat, serta sistem kekebalan tubuh."
+  },
+  {
+    "id": 4,
+    "nama": "Kunyit",
+    "harga": 10000,
+    "gambar": "images/kunyit.jpg",
+    "deskripsi": "Kunyit mengandung kurkumin yang berfungsi sebagai antiinflamasi dan membantu menjaga kesehatan pencernaan."
+  },
+  {
+    "id": 5,
+    "nama": "Daun Sirih",
+    "harga": 16000,
+    "gambar": "images/daun-sirih.jpg",
+    "deskripsi": "Daun sirih memiliki sifat antiseptik alami yang baik untuk menjaga kesehatan mulut dan kulit."
+  },
+  {
+    "id": 6,
+    "nama": "Lidah Buaya",
+    "harga": 18000,
+    "gambar": "images/lidah-buaya.jpg",
+    "deskripsi": "Lidah buaya berguna untuk kesehatan kulit, mempercepat penyembuhan luka, dan melembapkan rambut."
+  },
+  {
+    "id": 7,
+    "nama": "Kayu Manis",
+    "harga": 20000,
+    "gambar": "images/kayu-manis.jpeg",
+    "deskripsi": "Kayu manis dapat membantu mengontrol kadar gula darah dan memiliki aroma menenangkan."
+  },
+  {
+    "id": 8,
+    "nama": "Daun Mint",
+    "harga": 17000,
+    "gambar": "images/daun-mint.jpg",
+    "deskripsi": "Daun mint menyegarkan napas, membantu meredakan gangguan pencernaan, dan memberikan efek relaksasi."
+  },
+  {
+    "id": 9,
+    "nama": "Teh Hijau",
+    "harga": 22000,
+    "gambar": "images/teh-hijau.jpg",
+    "deskripsi": "Teh hijau kaya antioksidan, membantu membakar lemak, serta menjaga kesehatan jantung."
+  },
+  {
+    "id": 10,
+    "nama": "Lada Hitam",
+    "harga": 14000,
+    "gambar": "images/lada-hitam.jpg",
+    "deskripsi": "Lada hitam dapat meningkatkan metabolisme tubuh dan memperkuat sistem kekebalan."
+  },
+  {
+    "id": 11,
+    "nama": "Temulawak",
+    "harga": 15000,
+    "gambar": "images/temulawak.jpg",
+    "deskripsi": "Temulawak membantu menjaga fungsi hati, meningkatkan nafsu makan, dan meredakan peradangan."
+  },
+  {
+    "id": 12,
+    "nama": "Sereh",
+    "harga": 13000,
+    "gambar": "images/sereh.jpg",
+    "deskripsi": "Sereh memiliki efek antibakteri dan dapat membantu meredakan stres serta menjaga sistem pencernaan."
+  },
+  {
+    "id": 13,
+    "nama": "Cengkeh",
+    "harga": 19000,
+    "gambar": "images/cengkeh.jpg",
+    "deskripsi": "Cengkeh berfungsi sebagai antiseptik alami, membantu meredakan sakit gigi, dan memperkuat daya tahan tubuh."
+  },
+  {
+    "id": 14,
+    "nama": "Seledri",
+    "harga": 12000,
+    "gambar": "images/seledri.jpg",
+    "deskripsi": "Seledri bermanfaat untuk menurunkan tekanan darah dan menjaga kesehatan ginjal."
+  },
+  {
+    "id": 15,
+    "nama": "Daun Kelor",
+    "harga": 18000,
+    "gambar": "images/daun-kelor.webp",
+    "deskripsi": "Daun kelor kaya akan vitamin dan mineral, membantu meningkatkan energi serta kekebalan tubuh."
+  }
+]
